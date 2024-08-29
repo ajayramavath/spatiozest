@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "label": "Interactive Mapping Suite",
+    "image": "/images/map-visualization.png",
+    "title": "Map Your Way to Success",
+    "description": "See where things are happening and why. Explore project data on interactive maps, layer it with other sources, and uncover hidden trends. Make informed decisions with clear reports and easy-to-use tools. Our intuitive mapping tools transform complex data into captivating maps, revealing patterns and insights that traditional spreadsheets cannot.",
+    "viewMore": "/solutions/interactive-mapping-suite"
+  },
+  {
+    "id": 2,
+    "label": "Field Data Collection",
+    "image": "/images/field-data.png",
+    "title": "Streamline Field Operations and Capture Accurate Data",
+    "description": "Empower your field team with our platform, turning your mobile device into a powerful tool for data collection. Our intuitive app allows you to gather accurate field data, including photos, documents etc, online or offline. Easily collect geometrical data using mobile GPS or the pinpoint tool and edit imported features for a comprehensive view. Transition from paper to digital seamlessly, transforming your workflow and gaining valuable insights into field operations.",
+    "viewMore": "/solutions/field-data-collection"
+  },
+  {
+    "id": 3,
+    "label": "Unified Data Hub",
+    "image": "/images/data-integration.png",
+    "title": "Bridge the Data Gap",
+    "description": "No data is out of reach. From spreadsheets to GIS formats, we seamlessly integrate all your sources, creating a single, powerful cloud home for your information. Connect your databases and upload spreadsheets, PDFs, images, GIS files etc.it's all here, secure and accessible. Unlock deeper insights, make informed decisions, and experience the power of unified data in the cloud.",
+    "viewMore": "/solutions/unified-data-hub"
+  },
+  {
+    "id": 4,
+    "label": "Geo-Analytics",
+    "image": "/images/spatial-analytics.png",
+    "title": "Decode Your Data, Discover Insights",
+    "description": "Our robust analytics tools empower you to filter, model, and analyse your geographical data like a pro, without having to dive deep into the dark. You can easily extract hidden patterns, trends, and insights with advanced support, and present them clearly with intuitive charts that tell a compelling story.",
+    "viewMore": "/solutions/geo-analytics"
+  },
+  {
+    "id": 5,
+    "label": "Geo-Attendance System",
+    "image": "/images/realtime-collaboration.png",
+    "title": "Unleash Your Team's Synergy",
+    "description": "Collaborate in real-time on maps and data, empower with granular permissions based on roles. Easily share maps and reports with customers, employees, and stakeholders, keeping everyone on the same page and driving informed decisions.",
+    "viewMore": "/solutions/geo-attendance-system"
+  },
+  {
+    "id": 6,
+    "label": "Alternative Data Insights",
+    "image": "/images/alternative-data.png",
+    "title": "Harness Alternative Data Insights",
+    "description": "SpatioZest ethically sources and curates a range of alternative data to fuel your decision-making. We specialise in Points of Interest POI, revealing competitor locations, amenities, and customer footprints. Demographic analysis offers insights into target populations, income levels, and behaviours. Precise boundary data defines markets, zones, and administrative areas, while environmental factors like weather and resources inform your operational strategy.",
+    "viewMore": "/solutions/alternative-data-insights"
+  }
+]

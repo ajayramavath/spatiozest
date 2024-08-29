@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "label":"Construction & Real Estate",
+        "hoverIcon": "/images/hover-realEstate-icon.png",
+        "icon": "/images/construction-icon.png",
+        "image": "/images/construction-image.png",
+        "challenges": ["Inefficient site selection and land acquisition", "Difficulty in tracking assets, materials, and progress across sites" ,"Complex regulatory compliance and permitting processes", "Limited insights into market trends and competitor activity", "Project delays due to unforeseen site conditions and miscommunication"],
+        "solutions": {
+            "Data-driven-site-selection": "Analyze land parcels based on zoning, infrastructure, demographics, and competitor locations.", 
+            "Pre-construction-analysis": "Identify site constraints (topography, utilities) to inform design and risk assessment.", 
+            "Progress-tracking-and-visualization": "Real-time monitoring of construction progress for streamlined communication and faster decision-making.", 
+            "Asset-management": "Track equipment, materials, and vehicles to optimize utilization and prevent losses." ,
+            "Market-analysis": "Visualize demographics, housing trends, and competitor data for informed investment and development decisions."
+        }
+    },
+    {
+        "id": 2,
+        "label": "Banking & Financial Services",
+        "hoverIcon": "/images/hover-bank-icon.png",
+        "icon": "/images/bank-icon.png",
+        "image": "/images/bank-image.png",
+        "challenges": ["Branch optimisation and network expansion in competitive markets","Understanding customer demographics and financial behaviours","Risk assessment for lending and investment decisions.","Fraud detection and prevention","Regulatory compliance (anti-money laundering, KYC"],
+        "solutions": {
+            "Market analysis": "Analyse branch locations, competitor presence, and demographic data to optimise network footprint.",
+            "Customer profiling": "Map customer demographics, spending patterns, and proximity to branches to tailor services and marketing.",
+            "Risk modelling": "Incorporate spatial data (flood zones, crime rates) into risk assessments for properties, businesses, and investments.",
+            "Fraud pattern detection": "Analyse transaction locations and customer profiles to identify suspicious activity.",
+            "Regulatory mapping": "Visualise compliance zones and reporting requirements to ensure adherence."
+        }
+    },
+    {
+        "id": 3,
+        "label": "Insurance",
+        "hoverIcon": "/images/hover-insurance-icon.png",
+        "icon": "/images/insurance-icon.png",
+        "image": "/images/insurance-image.png",
+        "challenges": ["Accurate risk assessment for property and casualty insurance","Catastrophe modeling and exposure analysis" ,"Optimizing claims management and resource allocation", "Identifying fraud patterns and reducing claim costs", "Identifying underserved markets and potential growth areas"],
+        "solutions": {
+            "Hazard zone mapping": "Overlay properties with flood, wildfire, and other risk zones for accurate underwriting.", 
+            "Catastrophe modeling": "Simulate potential impact of natural disasters on portfolios to inform reinsurance and reserves.", 
+            "Claims analysis": "Map claims clusters to identify potential fraud or areas with recurring losses.", 
+            "Location-based pricing": "Incorporate granular risk data into premiums for more equitable pricing." ,
+            "Market penetration analysis": "Identify areas with high property values but low insurance coverage for targeted marketing."
+        }
+    },
+    {
+        "id": 4,
+        "label": "Utilities (Water, Gas, Electricity)",
+        "hoverIcon": "/images/hover-utilities-icon.png",
+        "icon": "/images/utilities-icon.png",
+        "image": "/images/utilities-image.png",
+        "challenges": [
+            "Aging infrastructure management and proactive maintenance",
+            "Inefficient outage response and restoration times",
+            "Difficulty in visualizing vast network assets and dependencies",
+            "Complex regulatory reporting and compliance tracking",
+            "Identifying new revenue streams and service expansion areas"
+        ],
+        "solutions": {
+            "Detailed asset mapping": "Create a digital twin of your network (pipes, lines, substations) with asset conditions and historical data.",
+            "Outage analysis": "Map outage incidents in real-time, analyze patterns, and optimize crew deployment.",
+            "Preventive maintenance scheduling": "Prioritize inspections based on asset age, criticality, and failure risk models.",
+            "Regulatory compliance visualization": "Overlay environmental zones, restrictions, and reporting requirements with asset locations.",
+            "Customer segmentation and demand analysis": "Identify underserved areas and target service expansion efforts."
+        }
+    },
+    {
+        "id": 5,
+        "label": "Logistics & Supply Chain",
+        "hoverIcon": "/images/hover-logistics-icon.png",
+        "icon": "/images/logistics-icon.png",
+        "image": "/images/logistics-image.png",
+        "challenges": ["Inefficient route planning and fleet utilization", "Traffic congestion, delays, and unexpected disruptions", "Rising fuel costs and fluctuating freight rates", "Lack of real-time visibility into shipments and assets", "Complex last-mile delivery operations"],
+        "solutions": {
+            "Route optimization": "AI-powered route planning considering real-time traffic, road conditions, and vehicle capacity.", 
+            "Network analysis": "Identify bottlenecks, alternative routes, and opportunities for consolidation." ,
+            "Warehouse and distribution center placement": "Strategically locate facilities based on customer demand, transportation networks, and costs.", 
+            "Asset tracking": "Real-time monitoring of vehicles, shipments, and containers to improve visibility and prevent theft.", 
+            "Last-mile delivery optimization": "Geofencing, route analysis, and customer density mapping to streamline final deliveries."
+        }
+    },
+    {
+        "id": 6,
+        "label": "Retail & FMCG",
+        "hoverIcon": "/images/hover-retail-icon.png",
+        "icon": "/images/retail-icon.png",
+        "image": "/images/retail-image.png",
+        "challenges": ["Understanding local market dynamics and granular consumer behavior" ,"Competition analysis in a crowded landscape", "Optimizing store placement and product distribution networks", "Identifying emerging trends and adjusting to changing customer preferences", "Targeted marketing and personalized promotions"],
+        "solutions": {
+            "Customer profiling and segmentation": "Analyze demographic data, shopping patterns, and competitor locations to identify your ideal target markets." ,
+            "Market analysis": "Visualize competitor presence, points of interest, and income levels to assess local market opportunities and gaps.", 
+            "Site selection and store optimization": "Choose ideal locations based on foot traffic, demographics, accessibility, and competitor analysis." ,
+            "Distribution network analysis": "Optimize routes, identify bottlenecks, and streamline logistics to reduce costs and improve efficiency.", 
+            "Demand forecasting and inventory management": "Integrate location- based data with sales trends to anticipate demand and prevent stockouts or overstocking."
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "/images/data-collection-white.png",
+    "title": "Geospatial Data Collection & Generation"
+  },
+  {
+    "image": "/images/data-format.png",
+    "title": "Data Format Conversion"
+  },
+  {
+    "image": "/images/data-cleaning.png",
+    "title": "Data Cleaning And Processing"
+  },
+  {
+    "image": "/images/data-analysis.png",
+    "title": "Data Analysis And Report"
+  },
+  {
+    "image": "/images/delivery.png",
+    "title": "Delivery (Maps) And Integration (Mobile/ Web)"
+  },
+  {
+    "image": "/images/maintenance-white.png",
+    "title": "Maintenance And Updates"
+  }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Advanced Data Filtering",
+        "description": "Tailor your data view with dynamic filtering options, perfect for managing large datasets or focusing on specific criteria."
+    },
+    {
+        "id": 2,
+        "title": "Enhanced Spreadsheet Functions",
+        "description": "Streamline data manipulation with powerful spreadsheet capabilities, ideal for financial analysis or inventory management."
+    },
+    {
+        "id": 3,
+        "title": "Interactive Dashboards",
+        "description": "Create and customize dashboards to visualize key metrics, suitable for tracking performance and making informed decisions."
+    },
+    {
+        "id": 4,
+        "title": "Comprehensive Charting Tools",
+        "description": "Transform data into insightful charts, essential for presentations and reports."
+    },
+    {
+        "id": 5,
+        "title": "GPS-Enabled Drawing",
+        "description": "Utilize mobile GPS for precise drawing and mapping, great for fieldwork and location-based planning."
+    },
+    {
+        "id": 6,
+        "title": "Measurement Tools",
+        "description": "Accurately measure distances and areas, useful for construction and land development."
+    },
+    {
+        "id": 7,
+        "title": "Map-Based Data Filtering",
+        "description": "Apply geometric filters to map data, enhancing spatial analysis and geographic targeting."
+    },
+    {
+        "id": 8,
+        "title": "Map Editing Suite",
+        "description": "Edit and draw on maps with a full set of tools, facilitating urban planning and resource management."
+    },
+    {
+        "id": 9,
+        "title": "Geocoding Services",
+        "description": "Convert addresses to coordinates and vice versa, streamlining logistics and location services."
+    },
+    {
+        "id": 10,
+        "title": "Buffer Analysis",
+        "description": "Perform radius-based analysis to understand the impact of spatial factors, key for environmental studies."
+    },
+    {
+        "id": 11,
+        "title": "Intersection Analysis",
+        "description": "Conduct proximity analysis to discover intersections and correlations, vital for market research and strategic planning."
+    },
+    {
+        "id": 12,
+        "title": "Customizable Survey Forms",
+        "description": "Design surveys tailored to your needs, collecting valuable data for customer feedback and research."
+    }
+]

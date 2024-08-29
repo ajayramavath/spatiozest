@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "top":"TAILORED VISUALS",
+    "label": "Interactive Mapping Suite",
+    "image": "/images/interactive-mapping-suite.png",
+    "title": "Map Your Way to Success",
+    "description": "Map your data, unlock hidden patterns with interactive visualizations.",
+    "viewMore": "/solutions/interactive-mapping-suite"
+  },
+  {
+    "id": 2,
+    "top": "Data Management",
+    "label": "Field Data Collection",
+    "image": "/images/field-data-collection.png",
+    "title": "Streamline Field Operations and Capture Accurate Data",
+    "description": "Empower your team with real-time map updates, shared situational awareness, and collaborative tools.Maximize team efficiency with AI-powered scheduling that smartly assigns tasks for optimal results.",
+    "viewMore": "/solutions/field-data-collection"
+  },
+  {
+    "id": 3,
+    "top": "Task Management",
+    "label": "Unified Data Hub",
+    "image": "/images/unified-data-hub.png",
+    "title": "Bridge the Data Gap",
+    "description": "Bridge data silos, work securely in the cloud, and unlock deeper insights with unified data.",
+    "viewMore": "/solutions/unified-data-hub"
+  },
+  {
+    "id": 4,
+    "top": "Powerful Insights",
+    "label": "Geo-Analytics",
+    "image": "/images/spatial-analytics.png",
+    "title": "Decode Your Data, Discover Insights",
+    "description": "Our robust analytics tools empower you to filter, model, and analyse your geographical data like a pro, without having to dive deep into the dark. You can easily extract hidden patterns, trends, and insights with advanced support, and present them clearly with intuitive charts that tell a compelling story.",
+    "viewMore": "/solutions/geo-analytics"
+  },
+  {
+    "id": 5,
+    "top": "",
+    "label": "Geo-Attendance System",
+    "image": "/images/realtime-collaboration.png",
+    "title": "Unleash Your Team's Synergy",
+    "description": "Collaborate in real-time on maps and data, empower with granular permissions based on roles. Easily share maps and reports with customers, employees, and stakeholders, keeping everyone on the same page and driving informed decisions.",
+    "viewMore": "/solutions/geo-attendance-system"
+  },
+  {
+    "id": 6,
+    "top": "",
+    "label": "Alternative Data Insights",
+    "image": "/images/alternative-data.png",
+    "title": "Harness Alternative Data Insights",
+    "description": "SpatioZest offers ethically sourced alternative data to enhance decision-making, specializing in Points of Interest, demographic insights, boundary definitions, and environmental factors.",
+    "viewMore": "/solutions/alternative-data-insights"
+  }
+]
