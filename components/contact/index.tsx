@@ -4,7 +4,7 @@ import PrimaryButton from "../ui/primary-button"
 import { useModal } from "../ui/contactModal"
 
 
-const index = () => {
+const Contact = () => {
   const {open , setOpen } = useModal()
   return (
       <div className="flex h-[75vh] items-center flex-col justify-center px-2 md:px-10 py-4 w-full gap-5 isolate">
@@ -25,4 +25,4 @@ const index = () => {
   )
 }
 
-export default index
+export default Contact

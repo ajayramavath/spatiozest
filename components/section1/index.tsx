@@ -2,14 +2,12 @@
 import { globeConfig } from '@/lib/globeData'
 import dynamic from "next/dynamic";
 import PrimaryButton from '../ui/primary-button';
-import { sendContact } from '@/lib/apiClient';
-import { ModalProvider,  useModal } from '../ui/contactModal';
+import { useModal } from '../ui/contactModal';
 
 
-const index = () => {
+const Section1 = () => {
 
     const { setOpen, open } = useModal();
-    console.log(open)
 
     const World = dynamic(() => import("../ui/globe").then((m) => m.World), {
         ssr: false,
@@ -49,4 +47,4 @@ const index = () => {
     )
 }
 
-export default index
+export default Section1

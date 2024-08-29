@@ -60,6 +60,7 @@ export const FloatingNav = ({
                 {navItems.map((navItem: any, idx: number) => (
                     <Link
                         // id={navItem.id}
+                        key={idx}
                         to={navItem.id}
                         spy={true}
                         smooth={true}
